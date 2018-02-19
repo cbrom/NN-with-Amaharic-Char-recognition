@@ -3,6 +3,9 @@
 
 Neural Network with Amharic Character recognition
 
+## Documentation link
+> https://docs.google.com/document/d/1saobVw2G75UqF-FTwtsgt7LiBpAKKDFZp9ujw_CGQLY/
+
 ## Contents
 > Data collection folder used to collect data
 
@@ -11,5 +14,5 @@ Neural Network with Amharic Character recognition
 > Next to the trial of Neural Network with iris the actual data collected from a mouse pad is used as an input
 
 ### Progress
-> Can not figure out why its accuracy is greater than zero
-* Next test using images instead of trace point values
+> works but with low accuracy
+* figure out wheather the accuracy deprivation is because of an error in the NN or dataset
