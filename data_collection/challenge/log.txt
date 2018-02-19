@@ -1,0 +1,32 @@
+[2018-01-12 12:15:50 +0000] [17007] [INFO] Starting gunicorn 19.7.1
+[2018-01-12 12:15:50 +0000] [17007] [INFO] Listening at: http://127.0.0.1:8000 (17007)
+[2018-01-12 12:15:50 +0000] [17007] [INFO] Using worker: sync
+[2018-01-12 12:15:50 +0000] [17012] [INFO] Booting worker with pid: 17012
+[2018-01-12 12:16:36 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:17012)
+[2018-01-12 12:16:36 +0000] [17012] [INFO] Worker exiting (pid: 17012)
+[2018-01-12 12:16:36 +0000] [17096] [INFO] Booting worker with pid: 17096
+[2018-01-12 14:19:49 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:17096)
+[2018-01-12 14:19:49 +0000] [17007] [INFO] Handling signal: hup
+[2018-01-12 14:19:49 +0000] [17007] [INFO] Hang up: Master
+[2018-01-12 14:19:50 +0000] [20750] [INFO] Booting worker with pid: 20750
+[2018-01-12 17:33:49 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:20750)
+[2018-01-12 17:33:49 +0000] [20750] [INFO] Worker exiting (pid: 20750)
+[2018-01-12 17:33:49 +0000] [29890] [INFO] Booting worker with pid: 29890
+[2018-01-13 03:14:10 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:29890)
+[2018-01-13 03:14:10 +0000] [29890] [INFO] Worker exiting (pid: 29890)
+[2018-01-13 03:14:10 +0000] [10110] [INFO] Booting worker with pid: 10110
+[2018-01-13 09:52:38 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:10110)
+[2018-01-13 09:52:38 +0000] [10110] [INFO] Worker exiting (pid: 10110)
+[2018-01-13 09:52:38 +0000] [11054] [INFO] Booting worker with pid: 11054
+[2018-01-13 15:00:27 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:11054)
+[2018-01-13 15:00:27 +0000] [11054] [INFO] Worker exiting (pid: 11054)
+[2018-01-13 15:00:27 +0000] [19423] [INFO] Booting worker with pid: 19423
+[2018-01-13 21:02:12 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:19423)
+[2018-01-13 21:02:12 +0000] [19423] [INFO] Worker exiting (pid: 19423)
+[2018-01-13 21:02:12 +0000] [23612] [INFO] Booting worker with pid: 23612
+[2018-01-14 01:11:30 +0000] [17007] [CRITICAL] WORKER TIMEOUT (pid:23612)
+[2018-01-14 01:11:30 +0000] [23612] [INFO] Worker exiting (pid: 23612)
+[2018-01-14 01:11:30 +0000] [460] [INFO] Booting worker with pid: 460
+[2018-01-14 12:09:36 +0000] [460] [INFO] Worker exiting (pid: 460)
+[2018-01-14 12:09:36 +0000] [17007] [INFO] Handling signal: term
+[2018-01-14 12:09:36 +0000] [17007] [INFO] Shutting down: Master
